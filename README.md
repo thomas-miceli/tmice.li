@@ -1,0 +1,1 @@
+![Deploy Workflow](https://github.com/thomas-miceli/tmice.li/actions/workflows/deploy.yml/badge.svg)
